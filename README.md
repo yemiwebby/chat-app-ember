@@ -3,7 +3,7 @@
 ## Build a live chat application using Ember.js and Pusher
 This project contains the source code for a very simple realtime chat application with sentiment analysis. With sentiment analysis, we are able to detect the mood of a person based on the words they use in their chat messages.
 
-[View tutorial](https://pusher.com/tutorials/chat-app-emberjs)
+[View tutorial](https://pusher.com/tutorials/chat-emberjs)
 
 Here is a screenshot of the application.
 
